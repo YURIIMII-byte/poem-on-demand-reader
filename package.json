@@ -1,0 +1,17 @@
+{
+  "name": "poem-on-demand-reader",
+  "version": "1.0.0",
+  "description": "Writes a short poem on any topic or occasion and reads it aloud, on-device.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@qvac/sdk": "^0.19.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
